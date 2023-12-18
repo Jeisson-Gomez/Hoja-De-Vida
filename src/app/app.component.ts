@@ -10,5 +10,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Mi-Hoja-De-Vida';
+  title = 'Jeisson Alonso Gómez Herrera';
+  Profecion = 'Ingeniero de Software';
 }
