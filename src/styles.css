@@ -1,1 +1,34 @@
-/* You can add global styles to this file, and also import other style files */
+h1{
+    color: #E03137;
+    font-family: 'avennir', sans-serif;
+    text-align: center;
+}
+
+h2, h3{
+    margin: auto;
+    display: block;
+    color: blue;
+}
+
+body{
+    background: silver;
+}
+
+nav{
+    background: lightblue !important;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    background: rgba(224, 49, 55, 0.67);
+}
+
+#nav ul{
+    margin: 0;
+    list-style: none;
+    margin-right: 20px;
+}
+
+#nav ul, li{
+    float: left;
+    margin-right: 40px;
+}
