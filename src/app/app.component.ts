@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 
 //Componentes
+import { EstudiosComponent } from './Componentes/estudios/estudios.component';
 import { HomeComponent } from './Componentes/home/home.component';
 
 @Component({
@@ -10,6 +11,7 @@ import { HomeComponent } from './Componentes/home/home.component';
   standalone: true,
   imports: [
     CommonModule,
+    EstudiosComponent,
     HomeComponent,
     RouterOutlet],
   templateUrl: './app.component.html',
