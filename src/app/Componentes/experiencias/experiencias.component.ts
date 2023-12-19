@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
   styleUrl: './experiencias.component.css'
 })
 export class ExperienciasComponent {
+  Titulo = 'Experiencias';
 
+  Repositorio = 'https://github.com/Jeisson-Gomez';
 }
