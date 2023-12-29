@@ -7,6 +7,7 @@ import { ContactoComponent } from './Componentes/contacto/contacto.component';
 import { EstudiosComponent } from './Componentes/estudios/estudios.component';
 import { ExperienciasComponent } from './Componentes/experiencias/experiencias.component';
 import { HomeComponent } from './Componentes/home/home.component';
+import { SkillsComponent } from './Componentes/skills/skills.component';
 
 @Component({
   selector: 'app-root',
@@ -17,6 +18,7 @@ import { HomeComponent } from './Componentes/home/home.component';
     EstudiosComponent,
     ExperienciasComponent,
     HomeComponent,
+    SkillsComponent,
     RouterOutlet
   ],
   templateUrl: './app.component.html',

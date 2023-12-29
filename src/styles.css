@@ -12,23 +12,11 @@ h2, h3{
 
 body{
     background: silver;
+    text-align: justify;
 }
 
 nav{
     background: lightblue !important;
     text-align: center;
-    padding: 0px;
-    margin: 0px;
     background: rgba(224, 49, 55, 0.67);
-}
-
-#nav ul{
-    margin: 0;
-    list-style: none;
-    margin-right: 20px;
-}
-
-#nav ul, li{
-    float: left;
-    margin-right: 40px;
 }
