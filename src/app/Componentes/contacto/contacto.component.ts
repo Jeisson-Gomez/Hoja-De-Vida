@@ -10,6 +10,7 @@ export class ContactoComponent {
   Titulo = "Contacto";
 
   Nombre = 'Jeisson Alonso Gomez Herrera';
+  Sexo = "Hombre";
   Edad = 34;
   Correo = 'jeypitbullz4@gmail,com'
   Telefono = 3125129787;

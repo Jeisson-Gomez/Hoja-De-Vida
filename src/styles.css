@@ -20,3 +20,8 @@ nav{
     text-align: center;
     background: rgba(224, 49, 55, 0.67);
 }
+
+img{
+    width: 500px;
+    text-align: center;
+}
